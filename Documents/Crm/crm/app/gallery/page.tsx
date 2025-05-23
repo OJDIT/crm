@@ -19,12 +19,12 @@ export default function GalleryPage() {
       title: "Sunday Worship Service",
       category: "Worship Services",
       date: "May 19, 2025",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/images/IMG_5368.jpg?height=400&width=600",
       description: "Congregation in worship during Sunday morning service",
     },
     {
       id: 2,
-      title: "Youth Camp 2024",
+      title: "Sunday Worship Service",
       category: "Youth Events",
       date: "June 15, 2024",
       image: "/placeholder.svg?height=400&width=600",
@@ -32,7 +32,7 @@ export default function GalleryPage() {
     },
     {
       id: 3,
-      title: "Community Food Drive",
+      title: "Sunday Worship Service",
       category: "Community Outreach",
       date: "April 20, 2025",
       image: "/placeholder.svg?height=400&width=600",
